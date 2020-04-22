@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/AnagramGame/nbproject/private/
+/AnagramGame1/nbproject/private/
+/HelloWorld/dist/
+/GaussSum/dist/
+/AnagramGame/build/
+/ArrayPrac1/dist/
+/Sort1/dist/
+/Test1/dist/
