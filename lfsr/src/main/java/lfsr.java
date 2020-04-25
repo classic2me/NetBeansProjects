@@ -26,7 +26,7 @@ public class lfsr {
         
         while(lfsr != start_state);
         
-        return period;
+        
         
     }
     
