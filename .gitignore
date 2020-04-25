@@ -32,4 +32,8 @@ hs_err_pid*
 /Scanner1/target/
 /HelloWorld1/target/
 /Sum2/target/
+<<<<<<< HEAD
 /lfsr/target/
+=======
+/lfsr1/target/
+>>>>>>> 6e419c6d4758b6a946c79d5e77fc1197f2b841ec
